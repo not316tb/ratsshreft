@@ -6,7 +6,7 @@ Yo, what's up. I'm David, a lead at Studio 7 Development, and I like making soft
 Oh yeah, you heard it right. Magma is back, and finally working again! After alot of back and forth with various external persons, Anemo API (the heart of the Executor) has finally been updated and unpatched. Because of this, v2.1 Development can also continue (so stay tuned for updates).
 
 <br/>
-==================================================================================================================================================================
+---
 <br/>
 
 #### [*PSA*] ~~Don't use any of the DLLs that come with Magma~~
