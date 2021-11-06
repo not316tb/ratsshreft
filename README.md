@@ -8,17 +8,17 @@ Oh yeah, you heard it right. Magma is back, and finally working again! After alo
 <br/><br/>
 
 #### ~~[*PSA*] Don't use any of the DLLs that come with Magma~~
-###### ~~It was discovered that some of the stock DLLs were viruses, and that the only 100% safe one is the GMod Lmaobox DLL (GLuaLoader.dll) seen in the YouTube showcase. I have finally removed the viruses, but still be careful when looking for / downloading your own. If you still feel unsafe about the executable itself, feel free to compile it yourself since that's part of the reason I made it open sourced.~~
+> ###### ~~It was discovered that some of the stock DLLs were viruses, and that the only 100% safe one is the GMod Lmaobox DLL (GLuaLoader.dll) seen in the YouTube showcase. I have finally removed the viruses, but still be careful when looking for / downloading your own. If you still feel unsafe about the executable itself, feel free to compile it yourself since that's part of the reason I made it open sourced.~~
 
 #### [*FAQ*] Use OwlHub instead of DarkHub
-###### Seems like DarkHub is broken, and I don't think it's going to be fixed any time soon. Or ever for that matter. In the meantime I recommend checking out OwlHub as an alternative!
+> ###### Seems like DarkHub is broken, and I don't think it's going to be fixed any time soon. Or ever for that matter. In the meantime I recommend checking out OwlHub as an alternative!
 > ```lua
 > -- OwlHub by CriShoux
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
 > ```
 
 #### [*INFO*] SEOwned TF2 Cheat
-###### Here's a pretty good cheat for TeamFortress 2 called [SEOwned (Created by SonixZ)](https://www.unknowncheats.me/forum/team-fortress-2-a/436430-seowned-featured-cheat.html)
+> ###### Here's a pretty good cheat for TeamFortress 2 called [SEOwned (Created by SonixZ)](https://www.unknowncheats.me/forum/team-fortress-2-a/436430-seowned-featured-cheat.html)
 
 # To-Do
 - [ ] Predict the Future?
