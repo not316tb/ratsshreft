@@ -1,5 +1,5 @@
 # About Me
-Yo, what's up. I'm David: a lead at Studio 7 Development. I like making software that does stuff it probably shouldn't. I work mostly in C# (.NET Framework), JavaScript, and Python, but I do know how to write in Rust, Ruby, Java (barely), C++, Lua, and Shell. I know you're probably here for Magma, but please feel free to poke around my other repos, maybe you'll find something interesting!
+Yo, what's up. I'm James: a lead at Studio 7 Development. I like making software that does stuff it probably shouldn't. I work mostly in C# (.NET Framework), JavaScript, and Python, but I do know how to write in Rust, Ruby, Java (barely), C++, Lua, and Shell. I know you're probably here for Magma, but please feel free to poke around my other repos, maybe you'll find something interesting!
 
 # Updates & Info
 ## [*PSA*] Magma's back, baby!
@@ -30,6 +30,6 @@ Yeah, you heard it right. Magma is back, and finally working again! After alot o
 
 
 # Contact Me
-- GitHub: [Not316tb](http://github.com/Not316tb) (You're already here, what?)
+- GitHub: [ratsshreft](http://github.com/ratsshreft) (You're already here, what?)
 - Discord: [Studio 7](https://discord.gg/8FBjza6x8N)
-- Twitter: [s7DavidJ](https://twitter.com/s7DavidJ)
+- Twitter: [ratsshreft](https://twitter.com/s7DavidJ)
